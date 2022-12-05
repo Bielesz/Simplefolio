@@ -18,6 +18,10 @@
     clip-path: none;
   }
 
+  p {
+    margin-bottom: 2rem;
+  }
+
   .about-wrapper {
     @include respond(phone) {
       padding-bottom: 5rem;
